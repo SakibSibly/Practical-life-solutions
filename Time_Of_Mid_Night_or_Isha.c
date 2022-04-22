@@ -1,7 +1,7 @@
 // A Program to calculate the time for the Midnight or the time for 'Isha Salat on various perspectives in Bengali format hh mm (am / pm).
 #include <stdio.h>
 #include <string.h>
-// function to all things since our desired calculation should be happening twice but the value of the variable is changing.
+// function to calculate desired outputs without changing the original variables.
 void safe(int h_magrib, int m_magrib, int h_subh, int m_subh, int arr[1], float arr2[1])
 {
     int i;
